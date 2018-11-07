@@ -35,7 +35,7 @@
     "src/**/*.ts"
   ],
   "devDependencies": {
-    "@types/chai": "^3.4.34",
+    "@types/chai": "^4.1.7",
     "@types/jsdom": "^11.0.1",
     "@types/mocha": "^2.2.33",
     "@types/node": "^6.0.41",
